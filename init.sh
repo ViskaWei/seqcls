@@ -9,6 +9,8 @@ export PYTHONPATH=.:../pysynphot:../SciScript-Python/py3
 # Where's my PFS 
 export ROOT=/home/swei20/NLP/
 export DATA=/datascope/subaru/user/swei20/huggingface/datasets/
+# export MODEL=/datascope/subaru/user/swei20/huggingface/models/
+export LOG=/datascope/subaru/user/swei20/nlp/logs/
 # export TEST=/scratch/ceph/swei20/data/ae/test
 
 
